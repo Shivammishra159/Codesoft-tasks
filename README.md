@@ -1,2 +1,2 @@
 # Codesoft-tasks
-"I will be using this repository to complete the specific tasks assigned to me as part of my internship at Codsoft."
+"This repository contains the solutions to the tasks assigned during my internship at Codsoft. The objective of this task is to develop a To-Do List application using Python, either as a command-line interface (CLI) or a graphical user interface (GUI). The application allows users to create, update, and manage their to-do lists efficiently, helping them stay organized and productive."
